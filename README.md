@@ -1,5 +1,8 @@
 # Built a Family Cash Card service—an app for families to manage allowances in the form of digital debit cards.
 
+![image](https://github.com/NiteshJ98/Building-a-REST-API-with-Spring-Boot/assets/73299948/2bbf0b4c-97de-4e7f-9df2-3337f63276c2)
+
+
 ## About
 Building a simple Family Cash Card application — a modern way for parents to manage allowance funds for their kiddos.
 Parents often find themselves lacking an easy way to manage (i.e. send, receive, track) allowances for their kids. 
